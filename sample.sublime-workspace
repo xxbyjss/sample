@@ -519,6 +519,59 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/Http/Controllers/StaticPagesController.php",
+			"settings":
+			{
+				"buffer_size": 368,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/_header.blade.php",
+			"settings":
+			{
+				"buffer_size": 366,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/default.blade.php",
+			"settings":
+			{
+				"buffer_size": 245,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/static_pages/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 379,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/static_pages/about.blade.php",
+			"settings":
+			{
+				"buffer_size": 93,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/static_pages/help.blade.php",
+			"settings":
+			{
+				"buffer_size": 93,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -697,142 +750,22 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Administrator/Code/sample"
+		"/C/Users/Administrator/Code/sample",
+		"/C/Users/Administrator/Code/sample/public"
 	],
 	"file_history":
 	[
-		"/C/Users/Administrator/Code/Laravel/routes/web.php",
-		"/C/Users/Administrator/Code/Laravel/resources/views/welcome.blade.php",
-		"/C/Users/Administrator/Code/sample/.editorconfig",
-		"/C/Users/Administrator/Code/Laravel/public/index.php",
-		"/C/Users/Administrator/Code/sample/.env",
-		"/C/Users/Administrator/Code/Laravel/.env",
-		"/C/Users/Administrator/Homestead/Homestead.yaml",
-		"/C/Windows/System32/drivers/etc/hosts",
-		"/C/Users/Administrator/Code/Laravel/artisan",
-		"/E/WWW/a.php",
-		"/E/WWW/yanwo/Application/Admin/Controller/LoginController.class.php",
-		"/E/Administrator/Desktop/五笔98版单字库_2018_11_20.txt",
-		"/C/Users/Administrator/Code/Laravel/readme.md",
-		"/C/Users/Administrator/Code/Laravel/config/database.php",
-		"/E/WWW/yanwo/Application/Store/Controller/OrderController.class.php",
-		"/E/WWW/yanwo/Application/Store/View/Order/recordSheet.html",
-		"/E/PHP/ot/8.ajax/20140111/Pagination.php",
-		"/E/PHP/传智播客PHP面试宝典2013版/新建文件夹/a.php",
-		"/E/Administrator/Temp/Rar$DIa3616.18897/RelationModel.class.php",
-		"/E/Administrator/Temp/Rar$DIa3616.16811/Model.class.php",
-		"/E/Administrator/Temp/Rar$DIa3616.12129/config.php",
-		"/E/WWW/yanwo/index.php",
-		"/E/Administrator/Temp/Rar$DIa2028.48047/AskControl.class.php",
-		"/E/Administrator/Temp/Rar$DIa2028.46162/AnswerModel.class.php",
-		"/E/Administrator/Temp/Rar$DIa2028.39013/hdphp.php",
-		"/E/Administrator/Temp/Rar$DIa2028.37532/index.php",
-		"/E/Administrator/Temp/Rar$DIa2028.35236/dbConfig.php",
-		"/E/Administrator/Temp/Rar$DIa2028.33520/AdminControl.class.php",
-		"/E/WWW/yanwo/Application/Admin/Controller/CapitalController.class.php",
-		"/E/WWW/yanwo/Application/Admin/Model/PlatformBillModel.class.php",
-		"/E/WWW/yanwo/Application/Admin/Controller/OperateController.class.php",
-		"/E/WWW/yanwo/Application/Admin/Model/OperatorAdminModel.class.php",
-		"/E/WWW/yanwo/Application/Admin/Model/StoreModel.class.php",
-		"/E/WWW/yanwo/Application/Admin/Controller/StoreController.class.php",
-		"/E/WWW/yanwo/Application/Admin/View/Marketing/addHealthy.html",
-		"/E/WWW/yanwo/Application/Admin/Controller/MarketingController.class.php",
-		"/E/WWW/yanwo/Application/Admin/Model/HealthInfoModel.class.php",
-		"/E/WWW/yanwo/Application/Admin/Controller/OrderController.class.php",
-		"/E/WWW/yanwo/Application/Admin/Controller/SettingController.class.php",
-		"/E/WWW/yanwo/Application/Admin/View/Setting/setWithdrawFees.html",
-		"/E/WWW/yanwo/Application/Admin/View/Setting/setAdVideo.html",
-		"/E/WWW/yanwo/Application/Admin/View/Shop/addStewGoods.html",
-		"/E/WWW/yanwo/Application/Admin/View/Shop/editStewGoods.html",
-		"/E/WWW/yanwo/Application/Admin/Controller/UserController.class.php",
-		"/E/WWW/yanwo/Application/Admin/Model/UserModel.class.php",
-		"/F/WWW/b.html",
-		"/F/WWW/yanwo/Application/Store/Model/UserModel.class.php",
-		"/F/WWW/yanwo/Application/Store/Model/GoodsModel.class.php",
-		"/F/WWW/yanwo/Application/Store/Controller/LoginController.class.php",
-		"/F/WWW/yanwo/Application/Admin/View/Store/storesList.html",
-		"/F/WWW/yanwo/Application/Store/View/Order/recordSheet.html",
-		"/F/WWW/yanwo/Application/Admin/View/Shop/addDryGoods.html",
-		"/F/WWW/yanwo/Application/Admin/Model/GoodsModel.class.php",
-		"/F/WWW/yanwo/Application/Api/Conf/config.php",
-		"/F/WWW/yanwo/sftp-config.json",
-		"/F/tool/flashfxp5_gr/Cache/~flashfxp/3CD68A90_edit.tmp/db.php",
-		"/F/tool/flashfxp5_gr/Cache/~flashfxp/32BC31F5_edit.tmp/LoginController.class.php",
-		"/F/tool/flashfxp5_gr/Cache/~flashfxp/909006AF_edit.tmp/db.php",
-		"/F/tool/flashfxp5_gr/Cache/~flashfxp/70E0530D_view.tmp/config.php",
-		"/F/tool/flashfxp5_gr/Cache/~flashfxp/909006AF_view.tmp/config.php",
-		"/F/WWW/yanwo/ThinkPHP/Conf/convention.php",
-		"/F/tool/flashfxp5_gr/Cache/~flashfxp/70E0530D_edit.tmp/config.php",
-		"/F/tool/flashfxp5_gr/Cache/~flashfxp/4FEA386A_edit.tmp/db.php",
-		"/F/WWW/tskt/aaa.txt",
-		"/F/WWW/yanwo/ThinkPHP/Library/Think/Model.class.php",
-		"/F/WWW/yanwo/Application/Admin/Controller/StoreController.class.php",
-		"/F/WWW/yanwo/Application/Store/Model/OrderModel.class.php",
-		"/F/WWW/a.php",
-		"/F/WWW/yanwo/Application/Common/Lib/StoreBaseController.class.php",
-		"/F/WWW/yanwo/Application/Admin/View/Shop/goodsDetail.html",
-		"/F/WWW/yanwo/Application/Store/Model/OrderModel.class - 副本.php",
-		"/F/WWW/yanwo/Application/Store/Conf/config.php",
-		"/F/WWW/yanwo/Application/Admin/Conf/config.php",
-		"/F/WWW/yanwo/Application/Common/Conf/config.php",
-		"/F/WWW/yanwo/Application/Admin/View/Marketing/addHealthy.html",
-		"/F/WWW/yanwo/Application/Command/Migrations/180926143013.php",
-		"/F/WWW/yanwo/Application/Admin/View/Shop/addStewGoods.html",
-		"/F/WWW/yanwo/Application/Store/View/Role/access.html",
-		"/F/WWW/yanwo/Application/Store/View/Role/add.html",
-		"/F/WWW/yanwo/Application/Store/View/Role/edit.html",
-		"/F/WWW/yanwo/Application/Store/View/Role/listAll.html",
-		"/F/WWW/yanwo/Application/Store/View/Setting/setSystemConfig.html",
-		"/F/WWW/yanwo/Application/Store/View/Admin/add.html",
-		"/F/WWW/yanwo/Application/Store/View/Admin/edit.html",
-		"/F/WWW/yanwo/Application/Store/View/Admin/listAll.html",
-		"/F/WWW/yanwo/Application/Store/View/Admin/modifyPassword.html",
-		"/F/WWW/yanwo/Application/Store/View/Node/editAction.html",
-		"/F/WWW/yanwo/Application/Store/View/Node/editApp.html",
-		"/F/WWW/yanwo/Application/Store/View/Node/editController.html",
-		"/F/WWW/yanwo/Application/Store/View/Node/listAll.html",
-		"/F/WWW/yanwo/Application/Store/View/Order/detail.html",
-		"/F/WWW/yanwo/Application/Store/View/Index/index.html",
-		"/F/WWW/yanwo/Application/Store/View/Order/offlineListAll.html",
-		"/F/WWW/yanwo/Application/Admin/View/Order/stewListAll.html",
-		"/F/WWW/yanwo/Application/Admin/View/Order/offlineListAll.html",
-		"/F/WWW/yanwo/Application/Admin/View/Order/dryListAll.html",
-		"/F/WWW/yanwo/Application/Store/View/Order/dryListAll.html",
-		"/F/WWW/yanwo/Application/Store/View/Order/stewListAll.html",
-		"/F/WWW/yanwo/Application/Common/Lib/Controller.class.php",
-		"/F/WWW/yanwo/Application/Admin/View/Shop/listAll.html",
-		"/F/tool/Sublime Text 3/Data/Packages/User/Emmet.sublime-settings",
-		"/F/tool/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
-		"/D/desktop/html_completions.py",
-		"/D/desktop/html (begin tag).sublime-snippet",
-		"/D/desktop/html.sublime-snippet",
-		"/D/desktop/HTML.sublime-syntax",
-		"/D/desktop/Symbol List - ID.tmPreferences",
-		"/D/desktop/syntax_test_html.html",
-		"/F/WWW/yanwo/Application/Store/Controller/OrderController.class.php",
-		"/D/desktop/Miscellaneous.tmPreferences",
-		"/D/desktop/encode_html_entities.py",
-		"/D/desktop/Comments.tmPreferences",
-		"/F/WWW/yanwo/Application/Admin/View/Order/detail.html",
-		"/F/WWW/yanwo/Application/Admin/Controller/ShopController.class.php",
-		"/F/WWW/yanwo/Application/Admin/Model/OrderModel.class.php",
-		"/F/WWW/yanwo/Application/Admin/View/Shop/editStewGoods.html",
-		"/F/WWW/yanwo/Application/Admin/View/Shop/editDryGoods.html",
-		"/F/WWW/a.html",
-		"/F/WWW/yanwo/Application/Common/Common/function.php",
-		"/F/WWW/yanwo/ThinkPHP/Common/functions.php",
-		"/F/tool/flashfxp5_gr/Cache/~flashfxp/3961A874_edit.tmp/LoginController.class.php",
-		"/F/tool/flashfxp5_gr/Cache/~flashfxp/3961A874_edit.tmp/ComController.class.php",
-		"/F/tool/flashfxp5_gr/Cache/~flashfxp/3961A874_edit.tmp/IndexController.class.php",
-		"/F/WWW/yanwo/Application/Admin/Controller/OrderController.class.php",
-		"/F/WWW/yanwo/Application/Store/Controller/StoreController.class.php",
-		"/F/WWW/yanwo/Application/Admin/View/Index/index.html",
-		"/F/WWW/yanwo/Application/Command/Migrations/180926143044.php",
-		"/F/WWW/yanwo/Application/Admin/View/Store/storeAdminList.html"
+		"/C/Users/Administrator/Code/sample/webpack.mix.js",
+		"/C/Users/Administrator/Code/sample/resources/assets/js/app.js",
+		"/C/Users/Administrator/Code/sample/public/js/app.js",
+		"/C/Users/Administrator/Code/sample/package.json",
+		"/C/Users/Administrator/Code/sample/yarn.lock",
+		"/C/Users/Administrator/Code/sample/resources/assets/sass/app.scss",
+		"/C/Users/Administrator/Code/sample/public/css/app.css"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 46.0
 	},
 	"find_in_files":
 	{
@@ -974,6 +907,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"$navbar-color",
+			"#3c3e42;",
+			"section {\n  overflow: auto;\n}",
+			"body",
+			"有一个基本理",
+			"独立",
+			"iyj",
+			"瀏",
+			"浏",
+			"“",
+			"yield",
+			"home",
+			"主页",
+			"home",
+			"主页",
 			"\\s",
 			"\\r",
 			"\\r\\n",
@@ -1086,27 +1034,12 @@
 			"$(this).val()",
 			"$('.mobile').addClass('has-error');\n            $('.mobile-error').text('手机号码格式错误');\n            $('.user-info').hide();\n            $(this).focus();",
 			"user-info",
-			"$(this).val()",
-			" style=\"margin-bottom: 30px;\"",
-			"5",
-			"<div class=\"col-lg-7\">\n                                                  <p class=\"form-control-static\">分量：100g；口味：特辣；水果伴侣：苹果、雪梨、香蕉、榴莲</p>\n                                                </div>",
-			" form-control-static",
-			"col-lg-8",
-			"8",
-			"row",
-			"40px;",
-			"margin-bottom: 30px;",
-			"col-lg-10",
-			"2",
-			"6",
-			"order_goods",
-			"3",
-			"control-label "
+			"$(this).val()"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": true,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
 			"  ",
@@ -1247,8 +1180,236 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/StaticPagesController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": false,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/layouts/_header.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/layouts/default.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": false,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/static_pages/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": false,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/static_pages/about.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": false,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/static_pages/help.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": false,
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1316,6 +1477,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"node_modules/bootstrap-sass/assets/stylesheets/bootstrap",
+				"node_modules\\bootstrap-sass\\assets\\stylesheets\\_bootstrap.scss"
+			],
+			[
+				"app.scss",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"resources/assets/sass/app.scss",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"Illuminate\\Http\\Request",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Http\\Request.php"
+			],
+			[
+				"stat",
+				"app\\Http\\Controllers\\StaticPagesController.php"
+			],
 			[
 				"web.php",
 				"routes\\web.php"
@@ -1807,26 +1988,6 @@
 			[
 				"admin/shop/edit",
 				"Application\\Admin\\View\\Shop\\edit.html"
-			],
-			[
-				"admin/filec",
-				"Application\\Admin\\Controller\\FileController.class.php"
-			],
-			[
-				"admin/file/listall.html",
-				"Application\\Admin\\View\\File\\listAll.html"
-			],
-			[
-				"admin/news/listall.html",
-				"Application\\Admin\\View\\News\\listAll.html"
-			],
-			[
-				"business/fundsmanagement/myaccount.html",
-				"Application\\Business\\View\\FundsManagement\\myAccount.html"
-			],
-			[
-				"business/index/index.html",
-				"Application\\Business\\View\\Index\\index.html"
 			]
 		],
 		"width": 0.0
@@ -1839,7 +2000,7 @@
 		[
 			[
 				"",
-				"F:\\WWW\\collect\\collect.sublime-project"
+				"E:\\WWW\\yanwo\\yw.sublime-project"
 			]
 		],
 		"width": 380.0
