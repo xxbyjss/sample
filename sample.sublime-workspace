@@ -520,54 +520,19 @@
 	"buffers":
 	[
 		{
-			"file": "app/Http/Controllers/StaticPagesController.php",
+			"file": "app/Http/Controllers/UsersController.php",
 			"settings":
 			{
-				"buffer_size": 368,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/layouts/_header.blade.php",
-			"settings":
-			{
-				"buffer_size": 366,
+				"buffer_size": 617,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "resources/views/layouts/default.blade.php",
+			"file": "resources/views/users/create.blade.php",
 			"settings":
 			{
-				"buffer_size": 245,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/static_pages/home.blade.php",
-			"settings":
-			{
-				"buffer_size": 379,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/static_pages/about.blade.php",
-			"settings":
-			{
-				"buffer_size": 93,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/static_pages/help.blade.php",
-			"settings":
-			{
-				"buffer_size": 93,
+				"buffer_size": 1299,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -751,17 +716,63 @@
 	"expanded_folders":
 	[
 		"/C/Users/Administrator/Code/sample",
-		"/C/Users/Administrator/Code/sample/public"
+		"/C/Users/Administrator/Code/sample/app",
+		"/C/Users/Administrator/Code/sample/resources",
+		"/C/Users/Administrator/Code/sample/resources/lang"
 	],
 	"file_history":
 	[
+		"/C/Users/Administrator/Code/sample/resources/lang/zh-CN/validation.php",
+		"/C/Users/Administrator/Code/sample/resources/lang/en/validation.php",
+		"/C/Users/Administrator/Code/sample/resources/lang/en/auth.php",
+		"/C/Users/Administrator/Code/sample/config/app.php",
+		"/C/Users/Administrator/Code/sample/composer.json",
+		"/C/Users/Administrator/Code/sample/resources/views/shared/_errors.blade.php",
+		"/C/Users/Administrator/Code/sample/vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php",
+		"/C/Users/Administrator/Code/sample/app/Http/Controllers/Controller.php",
+		"/C/Users/Administrator/Code/sample/vendor/laravel/framework/src/Illuminate/Foundation/Bus/DispatchesJobs.php",
+		"/C/Users/Administrator/Code/sample/vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php",
+		"/C/Users/Administrator/Code/sample/app/Models/User.php",
+		"/C/Users/Administrator/Code/sample/resources/assets/sass/app.scss",
+		"/C/Users/Administrator/Code/sample/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/C/Users/Administrator/Code/sample/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithFlashData.php",
+		"/C/Users/Administrator/Code/sample/resources/views/shared/_user_info.blade.php",
+		"/C/Users/Administrator/Code/sample/resources/views/users/show.blade.php",
+		"/C/Users/Administrator/Code/sample/public/css/app.css",
+		"/C/Users/Administrator/Code/sample/resources/views/layouts/default.blade.php",
+		"/C/Users/Administrator/Code/sample/routes/web.php",
+		"/C/Users/Administrator/Code/sample/resources/views/users/create.blade.php",
+		"/E/WWW/a.php",
+		"/C/Users/Administrator/Code/Laravel/resources/views/welcome.blade.php",
+		"/C/Users/Administrator/Code/Laravel/app/Http/Controllers/Controller.php",
+		"/C/Users/Administrator/Code/sample/app/Http/Controllers/StaticPagesController.php",
+		"/C/Users/Administrator/Code/sample/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+		"/C/Users/Administrator/.config/configstore/update-notifier-bower.json",
+		"/C/ProgramData/Git/config",
+		"/C/Users/Administrator/.lesshst",
+		"/C/Users/Administrator/.gitconfig",
+		"/C/Users/Administrator/Code/sample/app/Models/Article.php",
+		"/C/Users/Administrator/Code/sample/database/migrations/2019_01_30_231818_create_articles_table.php",
+		"/C/Users/Administrator/Code/sample/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/Users/Administrator/Code/sample/config/auth.php",
+		"/C/Users/Administrator/Code/sample/config/services.php",
+		"/C/Users/Administrator/Code/sample/database/factories/UserFactory.php",
+		"/C/Users/Administrator/Code/sample/app/User.php",
+		"/C/Users/Administrator/Code/sample/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/C/Users/Administrator/Code/sample/vendor/laravel/framework/src/Illuminate/Notifications/HasDatabaseNotifications.php",
+		"/C/Users/Administrator/Code/sample/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/Administrator/Code/sample/resources/views/static_pages/home.blade.php",
+		"/C/Users/Administrator/Code/sample/resources/views/layouts/_header.blade.php",
+		"/C/Users/Administrator/Code/sample/resources/views/layouts/_footer.blade.php",
+		"/C/Users/Administrator/Code/sample/resources/views/static_pages/about.blade.php",
+		"/C/Users/Administrator/Code/sample/resources/views/static_pages/help.blade.php",
+		"/C/Users/Administrator/Code/sample/vendor/fzaninotto/faker/src/Faker/Provider/Internet.php",
+		"/C/Users/Administrator/Code/sample/node_modules/pngquant-bin/node_modules/bin-build/index.js",
 		"/C/Users/Administrator/Code/sample/webpack.mix.js",
 		"/C/Users/Administrator/Code/sample/resources/assets/js/app.js",
 		"/C/Users/Administrator/Code/sample/public/js/app.js",
 		"/C/Users/Administrator/Code/sample/package.json",
-		"/C/Users/Administrator/Code/sample/yarn.lock",
-		"/C/Users/Administrator/Code/sample/resources/assets/sass/app.scss",
-		"/C/Users/Administrator/Code/sample/public/css/app.css"
+		"/C/Users/Administrator/Code/sample/yarn.lock"
 	],
 	"find":
 	{
@@ -772,6 +783,8 @@
 		"height": 137.0,
 		"where_history":
 		[
+			"C:\\Users\\Administrator\\Code\\sample,*.php",
+			"C:\\Users\\Administrator\\Code\\sample",
 			"E:\\WWW\\yanwo\\Application\\Admin\\View\\Shop",
 			"F:\\WWW\\yanwo",
 			"F:\\WWW\\yanwo\\Public",
@@ -897,9 +910,7 @@
 			"F:\\WWW\\konka\\Application\\Admin\\View",
 			"F:\\WWW\\konka\\Application\\Command\\Migrations",
 			"F:\\WWW\\konka\\Application\\Api",
-			"F:\\WWW\\konka\\Application\\Api\\Controller",
-			"F:\\WWW\\konka\\Application\\Command\\Migrations",
-			"F:\\WWW\\konka\\Application\\Admin"
+			"F:\\WWW\\konka\\Application\\Api\\Controller"
 		]
 	},
 	"find_state":
@@ -907,6 +918,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"custom",
+			"locale",
+			"validate",
+			"ValidatesRequests",
+			"request",
+			"Requset",
+			"qq",
+			"_user_info",
+			"/* sidebar */",
+			"css/app.css",
+			"App\\User",
+			"}}\">",
 			"$navbar-color",
 			"#3c3e42;",
 			"section {\n  overflow: auto;\n}",
@@ -1022,19 +1045,7 @@
 			" form-control-static",
 			"/",
 			"right_operand",
-			"22",
-			"goods",
-			"\\u3001",
-			"data.data.base_info",
-			"mm",
-			"created_time",
-			"user-info",
-			"goods_name",
-			"last-record",
-			"$(this).val()",
-			"$('.mobile').addClass('has-error');\n            $('.mobile-error').text('手机号码格式错误');\n            $('.user-info').hide();\n            $(this).focus();",
-			"user-info",
-			"$(this).val()"
+			"22"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1042,6 +1053,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"App\\Models\\User",
 			"  ",
 			"<title>门店端管理后台</title>",
 			"CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci ",
@@ -1168,8 +1180,7 @@
 			"heq '0'",
 			"showRemote: false,",
 			", ",
-			"管理方",
-			" "
+			"管理方"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1180,24 +1191,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/Http/Controllers/StaticPagesController.php",
+					"file": "app/Http/Controllers/UsersController.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 368,
+						"buffer_size": 617,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								199,
-								199
+								228,
+								228
 							]
 						],
 						"settings":
@@ -1215,111 +1226,34 @@
 							"trim_trailing_white_space_on_save": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "resources/views/layouts/_header.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 366,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								195,
-								195
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": false,
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "resources/views/layouts/default.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 245,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								163,
-								163
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": false,
-							"incomplete_sync": null,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 300.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "resources/views/static_pages/home.blade.php",
+					"buffer": 1,
+					"file": "resources/views/users/create.blade.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 379,
+						"buffer_size": 1299,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								205,
-								205
+								566,
+								566
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
 							"editorconfig": true,
 							"ensure_newline_at_eof_on_save": false,
 							"incomplete_sync": null,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
@@ -1328,86 +1262,10 @@
 							"trim_trailing_white_space_on_save": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 300.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "resources/views/static_pages/about.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 93,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								52,
-								52
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": false,
-							"incomplete_sync": null,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "resources/views/static_pages/help.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 93,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								72,
-								72
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": false,
-							"incomplete_sync": null,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1478,12 +1336,100 @@
 		"selected_items":
 		[
 			[
-				"node_modules/bootstrap-sass/assets/stylesheets/bootstrap",
-				"node_modules\\bootstrap-sass\\assets\\stylesheets\\_bootstrap.scss"
+				"resources/lang",
+				"resources\\lang\\en\\auth.php"
+			],
+			[
+				"config/app.php",
+				"config\\app.php"
+			],
+			[
+				"App\\Http\\Controllers\\Controlle",
+				"app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"user",
+				"app\\Models\\User.php"
+			],
+			[
+				".scss",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"create.bl",
+				"resources\\views\\users\\create.blade.php"
+			],
+			[
+				"_user_info",
+				"resources\\views\\shared\\_user_info.blade.php"
+			],
+			[
+				"show.b",
+				"resources\\views\\users\\show.blade.php"
+			],
+			[
+				"user.",
+				"app\\Models\\User.php"
+			],
+			[
+				"css/app.css",
+				"public\\css\\app.css"
+			],
+			[
+				"default.b",
+				"resources\\views\\layouts\\default.blade.php"
 			],
 			[
 				"app.scss",
 				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"show.",
+				"resources\\views\\users\\show.blade.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"views/users/",
+				"resources\\views\\users\\create.blade.php"
+			],
+			[
+				"web.php",
+				"routes\\web.php"
+			],
+			[
+				"article",
+				"app\\Models\\Article.php"
+			],
+			[
+				"2019_01_30_231818_create_articles_table",
+				"database\\migrations\\2019_01_30_231818_create_articles_table.php"
+			],
+			[
+				"app/Models/User.php",
+				"app\\Models\\User.php"
+			],
+			[
+				"app/user.php",
+				"app\\User.php"
+			],
+			[
+				"database/migrations/2014_10_12_000000_create_users_table.php",
+				"database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"default.bl",
+				"resources\\views\\layouts\\default.blade.php"
+			],
+			[
+				"app.sc",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"node_modules/bootstrap-sass/assets/stylesheets/bootstrap",
+				"node_modules\\bootstrap-sass\\assets\\stylesheets\\_bootstrap.scss"
 			],
 			[
 				"resources/assets/sass/app.scss",
@@ -1496,10 +1442,6 @@
 			[
 				"stat",
 				"app\\Http\\Controllers\\StaticPagesController.php"
-			],
-			[
-				"web.php",
-				"routes\\web.php"
 			],
 			[
 				"welcom",
@@ -1904,90 +1846,6 @@
 			[
 				"/Admin/Login/login.html",
 				"Application\\Admin\\View\\Login\\login.html"
-			],
-			[
-				"mysqli",
-				"ThinkPHP\\Library\\Think\\Session\\Driver\\Mysqli.class.php"
-			],
-			[
-				"Think\\Session\\Driver",
-				"ThinkPHP\\Library\\Think\\Session\\Driver\\Mysqli.class.php"
-			],
-			[
-				"function",
-				"ThinkPHP\\Common\\functions.php"
-			],
-			[
-				"con",
-				"ThinkPHP\\Conf\\convention.php"
-			],
-			[
-				"180910100324.php",
-				"Application\\Command\\Migrations\\180910100324.php"
-			],
-			[
-				"rbac",
-				"Application\\Common\\Lib\\Rbac.class.php"
-			],
-			[
-				"Admin/Partitionc",
-				"Application\\Admin\\Controller\\PartitionController.class.php"
-			],
-			[
-				"Admin/Partition/management",
-				"Application\\Admin\\View\\Partition\\management.html"
-			],
-			[
-				"admin/loginc",
-				"Application\\Admin\\Controller\\LoginController.class.php"
-			],
-			[
-				"user",
-				"Application\\Api\\Controller\\UserController.class.php"
-			],
-			[
-				"shop",
-				"Application\\Admin\\Controller\\ShopController.class.php"
-			],
-			[
-				"admin/index/index.html",
-				"Application\\Admin\\View\\Index\\index.html"
-			],
-			[
-				"/admin/shopc",
-				"Application\\Admin\\Controller\\ShopController.class.php"
-			],
-			[
-				"business/order/changing.html",
-				"Application\\Business\\View\\Order\\changing.html"
-			],
-			[
-				"business/fundsmanagement/businesscapital.html",
-				"Application\\Business\\View\\FundsManagement\\businessCapital.html"
-			],
-			[
-				"express",
-				"Application\\Admin\\Controller\\ExpressController.class.php"
-			],
-			[
-				"admin/shop/withdrawalaudit.html",
-				"Application\\Admin\\View\\Shop\\withdrawalAudit.html"
-			],
-			[
-				"admin/shopc",
-				"Application\\Admin\\Controller\\ShopController.class.php"
-			],
-			[
-				"admin/shop/listall.html",
-				"Application\\Admin\\View\\Shop\\listAll.html"
-			],
-			[
-				"admin/fundsmanagement/platformmoney.html",
-				"Application\\Admin\\View\\FundsManagement\\platformMoney.html"
-			],
-			[
-				"admin/shop/edit",
-				"Application\\Admin\\View\\Shop\\edit.html"
 			]
 		],
 		"width": 0.0
